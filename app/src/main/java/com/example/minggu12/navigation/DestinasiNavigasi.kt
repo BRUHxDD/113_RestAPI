@@ -4,6 +4,6 @@ interface DestinasiNavigasi {
 
     val route: String
 
-    val tittleRes : String
+    val titleRes : String
 
 }
